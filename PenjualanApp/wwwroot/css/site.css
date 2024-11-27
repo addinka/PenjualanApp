@@ -1,0 +1,53 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Mencegah scroll */
+}
+
+.d-flex.justify-content-center.align-items-center {
+    min-height: 100vh; /* Menghindari scroll */
+    height: 100%;
+}
+.d-flex {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.me-3 {
+    margin-right: 1rem;
+}
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding: 18px 32px;
+}
+.custom-submit {
+    margin-top: 20px; /* Memberikan jarak 20px di atas tombol */
+}
+.nav-link.active {
+    font-weight: bold;
+    color: #007bff; /* Warna biru, bisa disesuaikan */
+    text-decoration: underline; /* Tambahkan garis bawah jika perlu */
+}

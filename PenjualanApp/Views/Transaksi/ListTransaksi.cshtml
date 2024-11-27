@@ -1,0 +1,26 @@
+﻿@model IEnumerable<PenjualanApp.Models.Transaksi>
+@{
+    ViewData["Title"] = "Daftar Transaksi";
+}
+<h1>Daftar Transaksi</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Kasir ID</th>
+            <th>Total</th>
+            <th>Tanggal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var transaksi in Model)
+        {
+            <tr>
+                <td>@transaksi.Id</td>
+                <td>@transaksi.KasirId</td>
+                <td>@transaksi.Total</td>
+                <td>@transaksi.Tanggal.ToString("yyyy-MM-dd")</td>
+            </tr>
+        }
+    </tbody>
+</table>
