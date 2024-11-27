@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Transaksi";
+}
+
+<h1>Transaksi</h1>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+
+<div class="container">
+    <form method="post" action="/Transaksi/Submit">
+        <div class="mb-3">
+            <label for="ProductName" class="form-label">Nama Produk</label>
+            <input type="text" class="form-control" id="ProductName" name="ProductName" required />
+        </div>
+        <div class="mb-3">
+            <label for="Quantity" class="form-label">Jumlah</label>
+            <input type="number" class="form-control" id="Quantity" name="Quantity" required />
+        </div>
+        <div class="mb-3">
+            <label for="Price" class="form-label">Harga Satuan</label>
+            <input type="number" class="form-control" id="Price" name="Price" required />
+        </div>
+        <div class="mb-3">
+            <label for="Total" class="form-label">Total Harga</label>
+            <input type="number" class="form-control" id="Total" name="Total" readonly />
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+
+<script>
+    const quantityInput = document.getElementById("Quantity");
+    const priceInput = document.getElementById("Price");
+    const totalInput = document.getElementById("Total");
+
+    quantityInput.addEventListener("input", calculateTotal);
+    priceInput.addEventListener("input", calculateTotal);
+
+    function calculateTotal() {
+        const quantity = parseFloat(quantityInput.value) || 0;
+        const price = parseFloat(priceInput.value) || 0;
+        totalInput.value = quantity * price;
+    }
+</script>

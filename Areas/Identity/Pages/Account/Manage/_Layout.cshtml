@@ -1,0 +1,28 @@
+﻿<ul class="navbar-nav">
+    @if (User.Identity.IsAuthenticated)
+    {
+        @if (User.IsInRole("Admin"))
+        {
+            <li class="nav-item">
+                <a class="nav-link" href="@Url.Action("Dashboard", "Admin")">Admin Dashboard</a>
+            </li>
+        }
+        @if (User.IsInRole("Admin") || User.IsInRole("Kasir"))
+        {
+            <li class="nav-item">
+                <a class="nav-link" href="@Url.Action("Index", "Laporan")">Laporan</a>
+            </li>
+        }
+        <li class="nav-item">
+            <form asp-area="Identity" asp-page="/Account/Logout" method="post" class="form-inline">
+                <button type="submit" class="btn btn-outline-danger">Logout</button>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link" href="@Url.Action("Login", "Account", new { area = "Identity" })">Login</a>
+        </li>
+    }
+</ul>

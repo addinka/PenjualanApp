@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Laporan";
+}
+
+<h1>Laporan</h1>
+<p>@ViewBag.Message</p>
+
+<div>
+    <a class="btn btn-primary" asp-controller="Laporan" asp-action="ExportToPDF">Export PDF</a>
+    <a class="btn btn-success" asp-controller="Laporan" asp-action="ExportToExcel">Export Excel</a>
+</div>

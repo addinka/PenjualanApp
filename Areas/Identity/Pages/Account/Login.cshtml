@@ -1,0 +1,42 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="card shadow-lg p-4" style="width: 100%; max-width: 400px; border-radius: 10px;">
+        <div class="text-center mb-4">
+            <h3 class="text-primary fw-bold">Login</h3>
+            <p class="text-muted">Masuk ke akun Anda</p>
+        </div>
+        <form method="post">
+            <div class="form-group mb-3">
+                <label for="Email">Email</label>
+                <input type="email" class="form-control" id="Email" name="Email" required placeholder="Masukkan email">
+            </div>
+            <div class="form-group mb-3">
+                <label for="Password">Password</label>
+                <input type="password" class="form-control" id="Password" name="Password" required placeholder="Masukkan password">
+            </div>
+            <div class="form-group mb-3 form-check">
+                <input type="checkbox" class="form-check-input" id="RememberMe" name="RememberMe">
+                <label class="form-check-label" for="RememberMe">Ingat Saya</label>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Log in</button>
+        </form>
+        <div class="text-center mt-4">
+            <a href="/Identity/Account/Register" class="text-decoration-none">Belum punya akun? Daftar</a>
+        </div>
+        <div class="text-center mt-2">
+            <a href="/Identity/Account/ForgotPassword" class="text-decoration-none">Lupa password?</a>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

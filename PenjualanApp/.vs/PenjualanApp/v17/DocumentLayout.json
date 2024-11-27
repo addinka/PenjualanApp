@@ -1,0 +1,563 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\views\\kasir\\laporan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\views\\kasir\\laporan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\controllers\\kasircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\controllers\\kasircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\controllers\\transaksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\controllers\\transaksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\views\\kasir\\transaksi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\views\\kasir\\transaksi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\views\\transaksi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\views\\transaksi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\controllers\\laporancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\controllers\\laporancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\views\\laporan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\views\\laporan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADE\\.nuget\\packages\\epplus\\7.5.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127080237_AddTransaksiTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PenjualanApp\\Migrations\\20241127080237_AddTransaksiTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\models\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\models\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127065558_RecreateDetailTransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PenjualanApp\\Migrations\\20241127065558_RecreateDetailTransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\migrations\\20241127060414_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\migrations\\20241127060414_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127065055_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PenjualanApp\\Migrations\\20241127065055_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127064634_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PenjualanApp\\Migrations\\20241127064634_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\obj\\Debug\\net8.0\\PenjualanApp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PenjualanApp\\obj\\Debug\\net8.0\\PenjualanApp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\controllers\\produkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\controllers\\produkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\views\\produk\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\views\\produk\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\views\\produk\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\views\\produk\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\models\\detailtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\models\\detailtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\models\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\models\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|c:\\users\\ade\\source\\repos\\penjualanapp\\penjualanapp\\migrations\\20241126160009_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79731804-2B09-48F8-8E81-A66D95461981}|PenjualanApp\\PenjualanApp.csproj|solutionrelative:penjualanapp\\migrations\\20241126160009_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laporan.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Kasir\\Laporan.cshtml",
+              "RelativeDocumentMoniker": "PenjualanApp\\Views\\Kasir\\Laporan.cshtml",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Kasir\\Laporan.cshtml",
+              "RelativeToolTip": "PenjualanApp\\Views\\Kasir\\Laporan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T08:48:14.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaksi.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Kasir\\Transaksi.cshtml",
+              "RelativeDocumentMoniker": "PenjualanApp\\Views\\Kasir\\Transaksi.cshtml",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Kasir\\Transaksi.cshtml",
+              "RelativeToolTip": "PenjualanApp\\Views\\Kasir\\Transaksi.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T08:40:15.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\ADE\\.nuget\\packages\\epplus\\7.5.1\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\7.5.1\\readme.txt",
+              "ToolTip": "C:\\Users\\ADE\\.nuget\\packages\\epplus\\7.5.1\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\7.5.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T08:11:17.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241127080237_AddTransaksiTable.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127080237_AddTransaksiTable.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Migrations\\20241127080237_AddTransaksiTable.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127080237_AddTransaksiTable.cs",
+              "RelativeToolTip": "PenjualanApp\\Migrations\\20241127080237_AddTransaksiTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:02:37.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Transaksi\\Index.cshtml",
+              "RelativeDocumentMoniker": "PenjualanApp\\Views\\Transaksi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Transaksi\\Index.cshtml",
+              "RelativeToolTip": "PenjualanApp\\Views\\Transaksi\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:56:41.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransaksiController.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Controllers\\TransaksiController.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Controllers\\TransaksiController.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Controllers\\TransaksiController.cs",
+              "RelativeToolTip": "PenjualanApp\\Controllers\\TransaksiController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:55:21.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Laporan\\Index.cshtml",
+              "RelativeDocumentMoniker": "PenjualanApp\\Views\\Laporan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Laporan\\Index.cshtml",
+              "RelativeToolTip": "PenjualanApp\\Views\\Laporan\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:52:41.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LaporanController.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Controllers\\LaporanController.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Controllers\\LaporanController.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Controllers\\LaporanController.cs",
+              "RelativeToolTip": "PenjualanApp\\Controllers\\LaporanController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:52:00.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "PenjualanApp\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "PenjualanApp\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:48:56.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "PenjualanApp\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "PenjualanApp\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:45:28.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KasirController.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Controllers\\KasirController.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Controllers\\KasirController.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Controllers\\KasirController.cs",
+              "RelativeToolTip": "PenjualanApp\\Controllers\\KasirController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:29:04.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PenjualanApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:28:51.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PenjualanApp\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "PenjualanApp\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:17:51.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PenjualanApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PenjualanApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-27T07:13:56.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PenjualanApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "PenjualanApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:12:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PenjualanApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PenjualanApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:01:31.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241127065558_RecreateDetailTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127065558_RecreateDetailTransaksi.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Migrations\\20241127065558_RecreateDetailTransaksi.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127065558_RecreateDetailTransaksi.cs",
+              "RelativeToolTip": "PenjualanApp\\Migrations\\20241127065558_RecreateDetailTransaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:55:58.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241127065055_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127065055_InitialMigration.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Migrations\\20241127065055_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127065055_InitialMigration.cs",
+              "RelativeToolTip": "PenjualanApp\\Migrations\\20241127065055_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:50:55.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Program.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Program.cs",
+              "RelativeToolTip": "PenjualanApp\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:31:30.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241127064634_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127064634_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Migrations\\20241127064634_AddIdentityTables.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127064634_AddIdentityTables.cs",
+              "RelativeToolTip": "PenjualanApp\\Migrations\\20241127064634_AddIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:46:34.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "PenjualanApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "PenjualanApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T06:08:30.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241127060414_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127060414_AddIdentity.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Migrations\\20241127060414_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241127060414_AddIdentity.cs",
+              "RelativeToolTip": "PenjualanApp\\Migrations\\20241127060414_AddIdentity.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAgwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:04:14.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PenjualanApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\appsettings.json",
+              "RelativeToolTip": "PenjualanApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T15:34:07.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PenjualanApp.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\obj\\Debug\\net8.0\\PenjualanApp.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\obj\\Debug\\net8.0\\PenjualanApp.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\obj\\Debug\\net8.0\\PenjualanApp.AssemblyInfo.cs",
+              "RelativeToolTip": "PenjualanApp\\obj\\Debug\\net8.0\\PenjualanApp.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:59:33.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Produk\\Create.cshtml",
+              "RelativeDocumentMoniker": "PenjualanApp\\Views\\Produk\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Produk\\Create.cshtml",
+              "RelativeToolTip": "PenjualanApp\\Views\\Produk\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T16:14:40.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProdukController.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Controllers\\ProdukController.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Controllers\\ProdukController.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Controllers\\ProdukController.cs",
+              "RelativeToolTip": "PenjualanApp\\Controllers\\ProdukController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:06:14.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Produk\\Index.cshtml",
+              "RelativeDocumentMoniker": "PenjualanApp\\Views\\Produk\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Views\\Produk\\Index.cshtml",
+              "RelativeToolTip": "PenjualanApp\\Views\\Produk\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T16:13:18.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DetailTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Models\\DetailTransaksi.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Models\\DetailTransaksi.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Models\\DetailTransaksi.cs",
+              "RelativeToolTip": "PenjualanApp\\Models\\DetailTransaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:58:13.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Models\\Transaksi.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Models\\Transaksi.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Models\\Transaksi.cs",
+              "RelativeToolTip": "PenjualanApp\\Models\\Transaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:57:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Produk.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Models\\Produk.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Models\\Produk.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Models\\Produk.cs",
+              "RelativeToolTip": "PenjualanApp\\Models\\Produk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:56:56.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PenjualanApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:45:20.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241126160009_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241126160009_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PenjualanApp\\Migrations\\20241126160009_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ADE\\source\\repos\\PenjualanApp\\PenjualanApp\\Migrations\\20241126160009_InitialCreate.cs",
+              "RelativeToolTip": "PenjualanApp\\Migrations\\20241126160009_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:00:09.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

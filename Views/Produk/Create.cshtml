@@ -1,0 +1,18 @@
+﻿@model PenjualanApp.Models.Produk
+
+<h1>Tambah Produk</h1>
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label>Nama Produk</label>
+        <input asp-for="Nama" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Harga</label>
+        <input asp-for="Harga" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Stok</label>
+        <input asp-for="Stok" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Simpan</button>
+</form>
