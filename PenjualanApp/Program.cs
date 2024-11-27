@@ -86,7 +86,8 @@ app.Use(async (context, next) =>
 // Konfigurasi route default
 app.MapControllerRoute(
     name: "default",
-     pattern: "{controller=Transaksi}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
 
 app.MapRazorPages(); // Untuk mendukung area Identity
 

@@ -4,3 +4,12 @@
 
 <h1>Welcome to Admin Dashboard</h1>
 <p>Ini adalah halaman khusus untuk Admin.</p>
+<div>
+    <ul>
+        <li><a href="@Url.Action("ManageUsers", "Admin")">Manage Users</a></li>
+        <li><a href="@Url.Action("Index", "Laporan")">Laporan</a></li>
+        <!-- Menyesuaikan URL untuk halaman Transaksi -->
+        <li><a href="@Url.Action("FormTransaksi", "Transaksi")">Transaksi</a></li>
+        <li><a href="@Url.Action("DaftarTransaksi", "Transaksi")">List Transaksi</a></li>
+    </ul>
+</div>

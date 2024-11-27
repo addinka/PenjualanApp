@@ -5,9 +5,8 @@
     ViewData["Title"] = "Log in";
 }
 
-
-<div class="container d-flex justify-content-center align-items-center vh-100">
-    <div class="card shadow-lg p-4" style="width: 100%; max-width: 400px; border-radius: 10px;">
+<div class="login-container">
+    <div class="form-login">
         <div class="text-center mb-4">
             <h3 class="text-primary fw-bold">Login</h3>
             <p class="text-muted">Masuk ke akun Anda</p>
@@ -25,7 +24,7 @@
                 <input type="checkbox" class="form-check-input" id="RememberMe" name="RememberMe">
                 <label class="form-check-label" for="RememberMe">Ingat Saya</label>
             </div>
-            <button type="submit" class="btn btn-primary w-100">Log in</button>
+            <button type="submit" class="btn btn-primary w-100 custom-submit">Log in</button>
         </form>
         <div class="text-center mt-4">
             <a href="/Identity/Account/Register" class="text-decoration-none">Belum punya akun? Daftar</a>
@@ -35,7 +34,6 @@
         </div>
     </div>
 </div>
-
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />

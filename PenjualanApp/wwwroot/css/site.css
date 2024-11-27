@@ -1,53 +1,84 @@
+/* Default font size adjustments */
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+/* Focus and active states for buttons and inputs */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
-
-
+/* Ensure the body and html fill the height of the viewport */
 body, html {
     margin: 0;
     padding: 0;
-    overflow: hidden; /* Mencegah scroll */
+    overflow: hidden; /* Prevent scrolling */
 }
 
+/* Flexbox centering for elements */
 .d-flex.justify-content-center.align-items-center {
-    min-height: 100vh; /* Menghindari scroll */
+    min-height: 100vh; /* Full height */
     height: 100%;
 }
+
 .d-flex {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center; /* Center content horizontally */
 }
 
+/* Add spacing for right margins */
 .me-3 {
     margin-right: 1rem;
 }
+
+/* Styling the navbar */
 .navbar {
     position: relative;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    padding-top: .5rem;
-    padding-bottom: .5rem;
-    padding: 18px 32px;
+    padding: 18px 32px; /* Adjusted padding for better spacing */
 }
+
+/* Styling the submit button for the login form */
 .custom-submit {
-    margin-top: 20px; /* Memberikan jarak 20px di atas tombol */
+    margin-top: 20px; /* Adds spacing above the button */
 }
+
+/* Active state for navbar links */
 .nav-link.active {
     font-weight: bold;
-    color: #007bff; /* Warna biru, bisa disesuaikan */
-    text-decoration: underline; /* Tambahkan garis bawah jika perlu */
+    color: #007bff; /* Active link color */
+    text-decoration: underline; /* Optional underline */
+}
+
+/* Flexbox styling for login container to center content */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh; /* Adjusts the height for the login form container */
+}
+
+/* Styling for the login form container */
+.form-login {
+    width: 100%;
+    max-width: 400px;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Optional shadow for better appearance */
 }
